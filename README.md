@@ -1,5 +1,5 @@
 # Hello-world
-practice repository
+practice supository
 
 yo what's up?
 
